@@ -9,12 +9,12 @@
 ---
 
 ### Objectives
-- Create a database scheme
+- Create a database schema
 - Insert, Update, and delect data
 - Query data using basic SQL commands
 ---
 
-### Data Requirements:
+### Database Requirements:
 
 1.Students table:
 
@@ -43,4 +43,11 @@
 - Courses ID(foreign key)
 
 - Grade
+---
+
+### TASKS
+
+### Task 1: Create database schema
+
+  
  

@@ -105,4 +105,27 @@ VALUES
 ```
 ---
 
- 
+### Task 3: Query Data
+
+Execute the following SQL queries:
+
+ 1. Retrieve all students:
+
+```
+SELECT * FROM Students;
+```
+
+2. Retrieve courses with credits > 3:
+```
+SELECT * FROM Courses WHERE Credits > 3;
+```
+
+3. Retrieve students enrolled in 'Introduction to Computer Science ':
+```
+SELECT s.* 
+FROM Students s 
+JOIN Enrollment e ON s.StudentID = e.StudentID 
+JOIN Courses c ON e.CourseID = c.CourseID 
+WHERE c.CourseName = 'Introduction to Computer Science ';
+```
+

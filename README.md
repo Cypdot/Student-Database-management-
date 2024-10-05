@@ -9,7 +9,7 @@
 ---
 
 ### Objectives
-- [Create a database schema]
+- [Create a database schema](#create-a-database-schema)
 - [Insert, and Update data]
 - [Query data using basic SQL commands]
 - [Tools used]

@@ -74,5 +74,9 @@ CREATE TABLE Enrollment (
   FOREIGN KEY (CourseID) REFERENCES Courses(CourseID)
 );
 ```
-  
+
+### Task 2: Insert Data
+
+Insert sample data into each table:
+
  

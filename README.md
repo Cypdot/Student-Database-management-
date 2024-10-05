@@ -10,7 +10,7 @@
 
 ### Objectives
 - [Create a database schema](#create-a-database-schema)
-- [Insert, and Update data]
+- [Insert, and Update data](#insert-and-update-data)
 - [Query data using basic SQL commands]
 
 ---

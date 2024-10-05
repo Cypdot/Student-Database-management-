@@ -9,9 +9,10 @@
 ---
 
 ### Objectives
-- Create a database schema
-- Insert, and Update data
-- Query data using basic SQL commands
+- [Create a database schema]
+- [Insert, and Update data]
+- [Query data using basic SQL commands]
+- [Tools used]
 ---
 
 ### Database Requirements:

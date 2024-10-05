@@ -10,7 +10,7 @@
 
 ### Objectives
 - Create a database schema
-- Insert, Update, and delect data
+- Insert, and Update data
 - Query data using basic SQL commands
 ---
 
@@ -128,4 +128,15 @@ JOIN Enrollment e ON s.StudentID = e.StudentID
 JOIN Courses c ON e.CourseID = c.CourseID 
 WHERE c.CourseName = 'Introduction to Computer Science ';
 ```
+---
 
+### Task 4: Update Data*
+
+
+1. Update John Etim's email:
+```
+UPDATE Students 
+SET Email = 'john.Etim12@gmail.com' 
+WHERE StudentID = 1;
+```
+---

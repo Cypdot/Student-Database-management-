@@ -4,7 +4,8 @@
 ---
 
 ### Project Overview
-Design and implement a simple database to manage student imformation using SQL.
+
+##### Design and implement a simple database to manage student imformation using SQL.
 ---
 
 ### Objectives

@@ -13,3 +13,34 @@
 - Insert, Update, and delect data
 - Query data using basic SQL commands
 ---
+
+### Data Requirements:
+
+1.Students table:
+
+- Student ID(primary key)
+
+- Name 
+
+- Email
+
+- Phone Number
+
+- Major
+
+2.Cources table:
+
+- Cources ID(primary key)
+
+- Courses Name
+
+- Credits
+
+3.Enrollment table:
+
+- Student ID(foreign key)
+
+- Courses ID(foreign key)
+
+- Grade
+ 

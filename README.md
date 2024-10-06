@@ -14,12 +14,6 @@
 - [Query data using basic SQL commands](#query-data-using-basic-sql-commands)
 - [Tool used](#tool-used)
 
-
-#### Database Requirements
-
-#### TASKS
-
-#### Tool used
 ---
 
 ### Database Requirements:
